@@ -4,7 +4,6 @@
 <hr>
 
   <ol>
-    
   
   <h3><i> use of </i></h3> 
   <h5>  money! money! money!  </h5>
@@ -26,4 +25,5 @@
 <img src= "https://media2.giphy.com/media/ADgfsbHcS62Jy/giphy.gif?cid=ecf05e47kvhv0mfgvq6j0vzwnpox9t8ej4fvkbk425bqt2g0&rid=giphy.gif&ct=g" width="420" height ="220px">
 
 <hr>
+
 &copy; Gökmen Nişancı / Web Developer.
