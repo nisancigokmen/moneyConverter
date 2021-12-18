@@ -3,7 +3,6 @@
 
 <hr>
 
-
   <ol>
   
   <h3><i> use of </i></h3> 
@@ -18,11 +17,9 @@
   
 <hr>
 
-
 </div><br>
 
 <hr>
-
 
 <h2><i>CONTACT</i></h2>
 
