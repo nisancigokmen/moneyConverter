@@ -14,7 +14,6 @@
   <li><p>good luck &#128516 </p></li>
            <p> &#128151 thank you for giving a time &#128151 </p>
   
-  
   </ol>
   
 </div><br>
