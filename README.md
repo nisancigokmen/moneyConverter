@@ -20,7 +20,6 @@
 
 <hr>
 
-
 <h2><i>CONTACT</i></h2>
 
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
