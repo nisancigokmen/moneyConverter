@@ -5,7 +5,6 @@
 <div id="useApp">
   
   <h3>USE OF </h3> 
- 
   
    <ol>
     <li> <p>Currency translation is done over 1 euro</p> </li>
