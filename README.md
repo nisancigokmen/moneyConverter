@@ -4,7 +4,6 @@
 
 <div id="useApp">
   
-  
   <h3>USE OF </h3> 
   
    <ol>
