@@ -2,7 +2,6 @@
 
 ![Screenshot_2021-11-20 Money Converter](https://user-images.githubusercontent.com/91744618/142723567-0a361e6a-2682-4015-89d8-7a909e39a700.png)
 
-
 <div id="useApp">
   
   <h3>USE OF </h3> 
@@ -25,7 +24,6 @@
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://assets.webiconspng.com/uploads/2017/01/Mail-Amazing-PNG-Icon.png" width="72px"> </a> 
  
  </div>
- 
  
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
