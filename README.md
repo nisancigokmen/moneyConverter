@@ -4,7 +4,6 @@
 
 <div id="useApp">
  
- 
   <h3>USE OF </h3> 
   
    <ol>
@@ -18,6 +17,7 @@
 </div><br>
 
 <div id="contact">
+ 
  
 <h2> Connect with me: </h2>
  
