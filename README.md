@@ -5,7 +5,7 @@
 <div id="useApp">
  
   <h3>USE OF </h3> 
-  
+
    <ol>
     <li> <p>Currency translation is done over 1 euro</p> </li>
   <li> <p>Write down the amount of euros you want to convert.</p> </li>
@@ -46,3 +46,4 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+
