@@ -1,6 +1,5 @@
 # Money Converter
 
-
 ![Screenshot_2021-11-20 Money Converter](https://user-images.githubusercontent.com/91744618/142723567-0a361e6a-2682-4015-89d8-7a909e39a700.png)
 
 <div id="useApp">
@@ -20,6 +19,7 @@
 <div id="contact">
  
 <h2> Connect with me: </h2>
+ 
  
   <a href="https://linkedin.com/in/nisancigokmen"><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="66x"> </a>  &nbsp;
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://img.icons8.com/ios-glyphs/60/000000/new-post.png"/> </a> 
