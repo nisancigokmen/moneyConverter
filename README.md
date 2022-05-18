@@ -46,4 +46,4 @@
 <img src= "https://media2.giphy.com/media/ADgfsbHcS62Jy/giphy.gif?cid=ecf05e47kvhv0mfgvq6j0vzwnpox9t8ej4fvkbk425bqt2g0&rid=giphy.gif&ct=g" width="420" height ="220px">
   <br> <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
